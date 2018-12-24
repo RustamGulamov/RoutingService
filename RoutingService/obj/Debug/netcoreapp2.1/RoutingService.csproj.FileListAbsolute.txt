@@ -1,0 +1,14 @@
+D:\projects\RoutingService\RoutingService\bin\Debug\netcoreapp2.1\RoutingService.deps.json
+D:\projects\RoutingService\RoutingService\bin\Debug\netcoreapp2.1\RoutingService.runtimeconfig.json
+D:\projects\RoutingService\RoutingService\bin\Debug\netcoreapp2.1\RoutingService.runtimeconfig.dev.json
+D:\projects\RoutingService\RoutingService\bin\Debug\netcoreapp2.1\RoutingService.dll
+D:\projects\RoutingService\RoutingService\bin\Debug\netcoreapp2.1\RoutingService.pdb
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.csprojAssemblyReference.cache
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.csproj.CoreCompileInputs.cache
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.RazorAssemblyInfo.cache
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.RazorAssemblyInfo.cs
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.AssemblyInfoInputs.cache
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.AssemblyInfo.cs
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.RazorTargetAssemblyInfo.cache
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.dll
+D:\projects\RoutingService\RoutingService\obj\Debug\netcoreapp2.1\RoutingService.pdb

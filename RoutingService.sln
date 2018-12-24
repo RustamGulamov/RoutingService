@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoutingService", "RoutingService\RoutingService.csproj", "{691D9CDF-31F6-4D71-84B2-37FBA3F6C26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingService.Tests", "RoutingService.Tests\RoutingService.Tests.csproj", "{E015F5E6-C976-4861-9280-5156256C552D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691D9CDF-31F6-4D71-84B2-37FBA3F6C26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691D9CDF-31F6-4D71-84B2-37FBA3F6C26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691D9CDF-31F6-4D71-84B2-37FBA3F6C26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691D9CDF-31F6-4D71-84B2-37FBA3F6C26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E015F5E6-C976-4861-9280-5156256C552D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E015F5E6-C976-4861-9280-5156256C552D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E015F5E6-C976-4861-9280-5156256C552D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E015F5E6-C976-4861-9280-5156256C552D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBA80D3-895F-4420-B513-2781CAB113A8}
+	EndGlobalSection
+EndGlobal
